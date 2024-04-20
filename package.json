@@ -3,6 +3,7 @@
   "version": "3.2.0",
   "description": "Graphical primitives for visualization, such as lines and areas.",
   "homepage": "https://d3js.org/d3-shape/",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/fxckdead/d3-shape.git"
